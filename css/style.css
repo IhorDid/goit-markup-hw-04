@@ -352,7 +352,7 @@ img {
   margin-bottom: 16px;
 }
 
-.footer-content {
+.footer-container {
   display: flex;
   align-items: baseline;
 }
