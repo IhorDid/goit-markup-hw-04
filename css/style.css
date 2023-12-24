@@ -368,3 +368,12 @@ img {
   letter-spacing: 0.02em;
   margin-bottom: 16px;
 }
+
+.footer-icons {
+  gap: 16px;
+}
+
+.footer-socsials:hover,
+.footer-socsials:focus {
+  background-color: #31d0aa;
+}
